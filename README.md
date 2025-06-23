@@ -1,8 +1,8 @@
-# 📌 Loja para Revendedoras
+# 📌 Catalogo para Revendedoras
 
-Bem-vindo ao **Loja para Revendedoras**! 🛍️
+Bem-vindo ao **Catalogo para Revendedoras**! 🛍️
 
-Este projeto é uma Loja desenvolvido para facilitar a venda de produtos por revendedoras. Ao clicar em um produto, o usuário é direcionado automaticamente para o **WhatsApp** da revendedora responsável pela venda, garantindo um contato direto e rápido.
+Este projeto é um catalogo desenvolvido para facilitar a venda de produtos por revendedoras. Ao clicar em um produto, o usuário é direcionado automaticamente para o **WhatsApp** da revendedora responsável pela venda, garantindo um contato direto e rápido.
 
 ---
 
@@ -30,12 +30,11 @@ Este projeto é uma Loja desenvolvido para facilitar a venda de produtos por rev
 
 ### 🔹 Requisitos
 - Node.js  
-- MySQL  
 
 ### 🔹 Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Tavihh/Site-Revendedora
+   git clone https://github.com/Tavihh/Site-Catalogo
    ```
 2. Instale as dependências do projeto:
    ```bash
