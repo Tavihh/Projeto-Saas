@@ -1,10 +1,4 @@
-# 📌 Catalogo para Revendedoras
-
-Bem-vindo ao **Catalogo para Revendedoras**! 🛍️
-
-Este projeto é um catalogo desenvolvido para facilitar a venda de produtos por revendedoras. Ao clicar em um produto, o usuário é direcionado automaticamente para o **WhatsApp** da revendedora responsável pela venda, garantindo um contato direto e rápido.
-
----
+# 📌 Projeto Saas
 
 ## 🚀 Funcionalidades
 
@@ -49,13 +43,6 @@ Este projeto é um catalogo desenvolvido para facilitar a venda de produtos por 
    npm run start
    ```
 5. Acesse o painel do site clicando no titulo do site para acessar a tela de login do painel
-
-## 📜 Como Funciona?
-1. O administrador cadastra os produtos no sistema.  
-2. Cada produto tem a opção de colocar um **link personalizado**, caso deixe em branco ele redireciona o comprador para o WhatsApp da revendedora.  
-3. O usuário escolhe um produto e, ao clicar, abre-se o WhatsApp já com uma mensagem pronta para contato.  
-
----
 
 ## 📌 Contribuição
 
